@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tm-541.github.io"><img src="https://img.shields.io/badge/Portfolio-tm--541.github.io-2ee6c5?style=for-the-badge&labelColor=05070d" alt="Portfolio"></a>
+  <a href="https://tm-541.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-tm--541.github.io%2FPortfolio-2ee6c5?style=for-the-badge&labelColor=05070d" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/muhammadtalha-cybersecurity"><img src="https://img.shields.io/badge/LinkedIn-Connect-4da3ff?style=for-the-badge&labelColor=05070d" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/IEEE-IBCAST_2026-2ee6c5?style=for-the-badge&labelColor=05070d" alt="IEEE IBCAST 2026">
 </p>
@@ -145,5 +145,5 @@ A decentralised LoRa mesh with **AOMDV** multipath routing, **ECDH** key exchang
 
 <p align="center">
   <b>Open to AI Security, Cybersecurity, InfoSec & GRC roles.</b><br>
-  <a href="https://tm-541.github.io">Portfolio</a> · <a href="https://www.linkedin.com/in/muhammadtalha-cybersecurity">LinkedIn</a>
+  <a href="https://tm-541.github.io/Portfolio/">Portfolio</a> · <a href="https://www.linkedin.com/in/muhammadtalha-cybersecurity">LinkedIn</a>
 </p>
